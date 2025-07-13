@@ -3,12 +3,14 @@
 A simple Flutter app for posting and finding lost items at IIT Patna.
 
 ## Features
+
 - Google Sign-In
 - Add lost/found items with images
 - Search and filter items
 - Delete your own posts
 
 ## Setup
+
 1. Clone this repo
 2. Run `cd my-app` inside the repository
 3. Run `flutter pub get`
@@ -18,12 +20,17 @@ A simple Flutter app for posting and finding lost items at IIT Patna.
 5. Run `flutter run`
 
 ## Build APK
+
 ```bash
 flutter build apk --release
 ```
 
 ## Tech Stack
+
 - Flutter + Firebase (Auth + Firestore)
 
+An app-release.apk has been added which can be downloaded and used quick.
+
 ---
-*Prototype for IIT Patna Lost & Found system*
+
+_Prototype for IIT Patna Lost & Found system_
