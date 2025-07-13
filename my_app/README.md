@@ -10,11 +10,12 @@ A simple Flutter app for posting and finding lost items at IIT Patna.
 
 ## Setup
 1. Clone this repo
-2. Run `flutter pub get`
-3. Add your Firebase config files:
+2. Run `cd my-app` inside the repository
+3. Run `flutter pub get`
+4. Add your Firebase config files:
    - `google-services.json` → `android/app/`
    - `GoogleService-Info.plist` → `ios/Runner/`
-4. Run `flutter run`
+5. Run `flutter run`
 
 ## Build APK
 ```bash
